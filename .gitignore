@@ -1,4 +1,5 @@
 *-bak
 *-cache*
 *.swp
-powermon.xml
+esp32lcd.xml
+fabrication/esp32lcd-bottom-pos.csv
