@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name cjh)(type KiCad)(uri ${KIPRJMOD}/../../cjh_kicad/cjh.pretty)(options "")(descr ""))
+  (lib (name cjh_jlcpcb)(type KiCad)(uri ${KIPRJMOD}/../../cjh_kicad/cjh_jlcpcb.pretty)(options "")(descr ""))
+)

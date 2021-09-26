@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name cjh)(type Legacy)(uri ${KIPRJMOD}/../cjh_kicad/cjh.lib)(options "")(descr ""))
-  (lib (name cjh_jlcpcb)(type Legacy)(uri ${KIPRJMOD}/../cjh_kicad/cjh_jlcpcb.lib)(options "")(descr ""))
-)

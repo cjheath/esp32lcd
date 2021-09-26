@@ -1,5 +1,6 @@
 *-bak
 *-cache*
-*.swp
+*.dcm
 esp32lcd.xml
 fabrication/esp32lcd-bottom-pos.csv
+*.swp
