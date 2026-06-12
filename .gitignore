@@ -5,3 +5,4 @@ esp32lcd.xml
 fabrication/esp32lcd-bottom-pos.csv
 fabricarion*.zip
 *.swp
+*.kicad_prl

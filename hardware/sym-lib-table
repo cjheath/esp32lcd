@@ -1,4 +1,8 @@
 (sym_lib_table
-  (lib (name cjh)(type Legacy)(uri ${KIPRJMOD}/../../cjh_kicad/cjh.lib)(options "")(descr ""))
-  (lib (name cjh_jlcpcb)(type Legacy)(uri ${KIPRJMOD}/../../cjh_kicad/cjh_jlcpcb.lib)(options "")(descr ""))
+	(version 7)
+	(lib (name "cjh") (type "KiCad") (uri "${KIPRJMOD}/../../cjh_kicad/cjh.kicad_sym") (options "") (descr ""))
+	(lib (name "cjh_jlcpcb") (type "KiCad") (uri "${KIPRJMOD}/../../cjh_kicad/cjh_jlcpcb.kicad_sym") (options "") (descr ""))
+	(lib (name "esp32lcd-cache") (type "Legacy") (uri "${KIPRJMOD}/esp32can-cache.lib") (options "") (descr "Legacy project cache library"))
+	(lib (name "jlcbasic") (type "KiCad") (uri "${KIPRJMOD}/../../jlcbasic/jlcbasic.kicad_sym") (options "") (descr ""))
+	(lib (name "jlcpreferred") (type "KiCad") (uri "${KIPRJMOD}/../../jlcpreferred/jlcpreferred.kicad_sym") (options "") (descr ""))
 )
