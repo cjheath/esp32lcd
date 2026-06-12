@@ -3,4 +3,5 @@
 *.dcm
 esp32lcd.xml
 fabrication/esp32lcd-bottom-pos.csv
+fabricarion*.zip
 *.swp
